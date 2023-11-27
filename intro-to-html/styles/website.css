@@ -1,0 +1,96 @@
+    .link {
+        color: aquamarine;
+        transition: color 0.15s;
+    }
+
+    .link:hover {
+        color: aqua;
+    }
+
+    .price-stock {
+        color: green;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .add-to-cart-button {
+        background-color: rgb(255, 216, 20);
+        color: black;
+        height: 36px;
+        width: 150px;
+        border-style: none;
+        border-radius: 18px;
+        font-size: 16px;
+        transition: opacity 0.15s;
+        margin-right: 8px;
+    }
+
+    .add-to-cart-button:active {
+        opacity: 0.7;
+    }
+
+    .buy-now-button {
+        background-color: orange;
+        color: black;
+        height: 36px;
+        width: 150px;
+        border-style: none;
+        border-radius: 18px;
+        font-size: 16px;
+        transition: opacity 0.15px;
+    }
+
+    .buy-now-button:active {
+        opacity: 0.7;
+    }
+
+    #button-pagination-back {
+        margin-top: 15px;
+        margin-right: 2px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+
+    }
+
+    #button-pagination-next {
+        margin-top: 15px;
+        margin-left: 2px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .link-pagination {
+        margin-left: 2px;
+        margin-right: 2px
+    }
+
+    #stretch-button {
+        background-color: green;
+        margin: 10px 0px 10px 0px;
+        padding: 5px 10px 5px 10px;
+        color: white;
+        border-style: none;
+        font-size: 16px;
+        transition: padding 1s, font-size 1s;
+    }
+
+    #stretch-button:hover {
+        padding: 15px 35px 15px 35px;
+        font-size: 50px;
+    }
+
+    #shadow-button {
+        background-color: green;
+        margin: 10px 0px 10px 0px;
+        padding: 5px 10px 5px 10px;
+        color: white;
+        border-style: none;
+        font-size: 16px;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+        cursor: pointer;
+    }
+
+    #shadow-button:active {
+        box-shadow: 0 0 0;
+        margin: 15px 5px 15px 5px;
+    }

@@ -1,0 +1,127 @@
+ p {
+     font-family: Arial;
+     margin-top: 0;
+     margin-bottom: 0;
+ }
+
+ .video-title {
+     font-size: 18px;
+     font-weight: bold;
+     width: 300px;
+     line-height: 24px;
+     margin-bottom: 6px;
+ }
+
+ .video-stats {
+     color: #606060;
+     font-size: 14px;
+     margin-bottom: 16px;
+ }
+
+ .video-author {
+     color: #606060;
+     font-size: 14px;
+     margin-bottom: 16px;
+ }
+
+ .video-description {
+     color: #606060;
+     font-size: 14px;
+     width: 280px;
+     line-height: 22px;
+     margin-bottom: 100px;
+ }
+
+ .apple-text {
+     margin-bottom: 50px;
+     font-size: 14px;
+     color: white;
+     background-color: #e34140;
+     padding: 17px 0 17px 0;
+     text-align: center;
+ }
+
+ .apple-link {
+     text-decoration: none;
+     color: white;
+ }
+
+ .apple-link:hover {
+     text-decoration: underline;
+     cursor: pointer;
+ }
+
+ .tahoma-text {
+     font-family: Tahoma;
+     font-size: 18px;
+     font-weight: bold;
+     margin-top: 50px;
+     margin-bottom: 50px;
+ }
+
+ .deal-title {
+     font-family: Arial;
+     font-size: 25px;
+     font-weight: bold;
+ }
+
+ .deal-deadline {
+     font-family: Arial;
+     font-style: italic;
+     color: red;
+     margin: 8px 0 50px 0;
+ }
+
+ #course-title {
+     font-family: Tahoma;
+     font-size: 18px;
+     font-weight: bolder;
+     margin-bottom: 5px;
+ }
+
+ #course-tag {
+     font-size: 14px;
+     color: #606060;
+     margin-bottom: 15px;
+     font-family: Tahoma;
+ }
+
+ #course-description {
+     font-family: Tahoma;
+     font-size: 14px;
+     width: 220px;
+     margin-bottom: 15px;
+ }
+
+ #get-started-button {
+     background-color: rgb(67, 149, 67);
+     border-style: none;
+     color: white;
+     border-radius: 6px;
+     padding: 8px 14px 8px 14px;
+     font-size: 12px;
+     margin-bottom: 50px;
+ }
+
+ #apple-business-title {
+     font-size: arial;
+     font-weight: bolder;
+     text-align: center;
+     font-size: 22px;
+     margin-bottom: 10px;
+ }
+
+ #apple-help-text {
+     text-align: center;
+     font-size: arial;
+     font-size: 15px;
+     margin-bottom: 10px;
+ }
+
+ #learn-more {
+     text-align: center;
+     font-size: arial;
+     font-size: 15px;
+     color: #0070c9;
+     margin-bottom: 50px;
+ }
